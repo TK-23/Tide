@@ -1,0 +1,249 @@
+,date,time,timezone,level_metric,level,moonrise
+0,Tuesday 27 August,5:55 AM,EDT,1.38 m,4.53 feet,High Tide
+1,Tuesday 27 August,6:06 AM,EDT,,,Sunrise
+2,Tuesday 27 August,11:08 AM,EDT,0.02 m,0.07 feet,Low Tide
+3,Tuesday 27 August,5:47 PM,EDT,,,Moonset
+4,Tuesday 27 August,6:21 PM,EDT,1.71 m,5.61 feet,High Tide
+5,Tuesday 27 August,7:27 PM,EDT,,,Sunset
+6,Tuesday 27 August,11:53 PM,EDT,-0.01 m,-0.03 feet,Low Tide
+7,Wednesday 28 August,3:32 AM,EDT,,,Moonrise
+8,Wednesday 28 August,6:07 AM,EDT,,,Sunrise
+9,Wednesday 28 August,6:50 AM,EDT,1.53 m,5.02 feet,High Tide
+10,Wednesday 28 August,12:07 PM,EDT,-0.07 m,-0.22 feet,Low Tide
+11,Wednesday 28 August,6:37 PM,EDT,,,Moonset
+12,Wednesday 28 August,7:14 PM,EDT,1.83 m,5.99 feet,High Tide
+13,Wednesday 28 August,7:25 PM,EDT,,,Sunset
+14,Thursday 29 August,12:49 AM,EDT,-0.11 m,-0.35 feet,Low Tide
+15,Thursday 29 August,4:47 AM,EDT,,,Moonrise
+16,Thursday 29 August,6:08 AM,EDT,,,Sunrise
+17,Thursday 29 August,7:41 AM,EDT,1.67 m,5.49 feet,High Tide
+18,Thursday 29 August,1:05 PM,EDT,-0.14 m,-0.47 feet,Low Tide
+19,Thursday 29 August,7:19 PM,EDT,,,Moonset
+20,Thursday 29 August,7:24 PM,EDT,,,Sunset
+21,Thursday 29 August,8:04 PM,EDT,1.90 m,6.25 feet,High Tide
+22,Friday 30 August,1:43 AM,EDT,-0.18 m,-0.60 feet,Low Tide
+23,Friday 30 August,6:05 AM,EDT,,,Moonrise
+24,Friday 30 August,6:09 AM,EDT,,,Sunrise
+25,Friday 30 August,6:38 AM,EDT,,,New Moon
+26,Friday 30 August,8:30 AM,EDT,1.78 m,5.85 feet,High Tide
+27,Friday 30 August,2:02 PM,EDT,-0.20 m,-0.65 feet,Low Tide
+28,Friday 30 August,7:22 PM,EDT,,,Sunset
+29,Friday 30 August,7:57 PM,EDT,,,Moonset
+30,Friday 30 August,8:52 PM,EDT,1.93 m,6.33 feet,High Tide
+31,Saturday 31 August,2:36 AM,EDT,-0.23 m,-0.77 feet,Low Tide
+32,Saturday 31 August,6:10 AM,EDT,,,Sunrise
+33,Saturday 31 August,7:23 AM,EDT,,,Moonrise
+34,Saturday 31 August,9:19 AM,EDT,1.85 m,6.07 feet,High Tide
+35,Saturday 31 August,2:57 PM,EDT,-0.22 m,-0.73 feet,Low Tide
+36,Saturday 31 August,7:21 PM,EDT,,,Sunset
+37,Saturday 31 August,8:31 PM,EDT,,,Moonset
+38,Saturday 31 August,9:42 PM,EDT,1.90 m,6.22 feet,High Tide
+39,Sunday 1 September,3:25 AM,EDT,-0.25 m,-0.81 feet,Low Tide
+40,Sunday 1 September,6:11 AM,EDT,,,Sunrise
+41,Sunday 1 September,8:39 AM,EDT,,,Moonrise
+42,Sunday 1 September,10:09 AM,EDT,1.86 m,6.11 feet,High Tide
+43,Sunday 1 September,3:49 PM,EDT,-0.20 m,-0.67 feet,Low Tide
+44,Sunday 1 September,7:19 PM,EDT,,,Sunset
+45,Sunday 1 September,9:02 PM,EDT,,,Moonset
+46,Sunday 1 September,10:32 PM,EDT,1.81 m,5.93 feet,High Tide
+47,Monday 2 September,4:11 AM,EDT,-0.22 m,-0.71 feet,Low Tide
+48,Monday 2 September,6:12 AM,EDT,,,Sunrise
+49,Monday 2 September,9:54 AM,EDT,,,Moonrise
+50,Monday 2 September,11:01 AM,EDT,1.83 m,6.01 feet,High Tide
+51,Monday 2 September,4:39 PM,EDT,-0.14 m,-0.45 feet,Low Tide
+52,Monday 2 September,7:17 PM,EDT,,,Sunset
+53,Monday 2 September,9:33 PM,EDT,,,Moonset
+54,Monday 2 September,11:25 PM,EDT,1.69 m,5.55 feet,High Tide
+55,Tuesday 3 September,4:55 AM,EDT,-0.14 m,-0.47 feet,Low Tide
+56,Tuesday 3 September,6:13 AM,EDT,,,Sunrise
+57,Tuesday 3 September,11:07 AM,EDT,,,Moonrise
+58,Tuesday 3 September,11:55 AM,EDT,1.77 m,5.82 feet,High Tide
+59,Tuesday 3 September,5:26 PM,EDT,-0.03 m,-0.09 feet,Low Tide
+60,Tuesday 3 September,7:15 PM,EDT,,,Sunset
+61,Tuesday 3 September,10:06 PM,EDT,,,Moonset
+62,Wednesday 4 September,12:19 AM,EDT,1.56 m,5.12 feet,High Tide
+63,Wednesday 4 September,5:39 AM,EDT,-0.04 m,-0.13 feet,Low Tide
+64,Wednesday 4 September,6:14 AM,EDT,,,Sunrise
+65,Wednesday 4 September,12:17 PM,EDT,,,Moonrise
+66,Wednesday 4 September,12:49 PM,EDT,1.69 m,5.56 feet,High Tide
+67,Wednesday 4 September,6:15 PM,EDT,0.11 m,0.35 feet,Low Tide
+68,Wednesday 4 September,7:14 PM,EDT,,,Sunset
+69,Wednesday 4 September,10:41 PM,EDT,,,Moonset
+70,Thursday 5 September,1:14 AM,EDT,1.43 m,4.70 feet,High Tide
+71,Thursday 5 September,6:15 AM,EDT,,,Sunrise
+72,Thursday 5 September,6:25 AM,EDT,0.08 m,0.27 feet,Low Tide
+73,Thursday 5 September,1:24 PM,EDT,,,Moonrise
+74,Thursday 5 September,1:44 PM,EDT,1.61 m,5.28 feet,High Tide
+75,Thursday 5 September,7:08 PM,EDT,0.24 m,0.80 feet,Low Tide
+76,Thursday 5 September,7:12 PM,EDT,,,Sunset
+77,Thursday 5 September,11:11 PM,EDT,,,First Quarter
+78,Thursday 5 September,11:19 PM,EDT,,,Moonset
+79,Friday 6 September,2:09 AM,EDT,1.32 m,4.34 feet,High Tide
+80,Friday 6 September,6:16 AM,EDT,,,Sunrise
+81,Friday 6 September,7:15 AM,EDT,0.20 m,0.66 feet,Low Tide
+82,Friday 6 September,2:28 PM,EDT,,,Moonrise
+83,Friday 6 September,2:40 PM,EDT,1.53 m,5.02 feet,High Tide
+84,Friday 6 September,7:10 PM,EDT,,,Sunset
+85,Friday 6 September,8:10 PM,EDT,0.35 m,1.15 feet,Low Tide
+86,Friday 6 September,9:39 PM,EDT,0.38 m,1.25 feet,High Tide
+87,Friday 6 September,10:33 PM,EDT,0.37 m,1.22 feet,Low Tide
+88,Saturday 7 September,12:02 AM,EDT,,,Moonset
+89,Saturday 7 September,3:06 AM,EDT,1.24 m,4.08 feet,High Tide
+90,Saturday 7 September,6:17 AM,EDT,,,Sunrise
+91,Saturday 7 September,8:13 AM,EDT,0.29 m,0.96 feet,Low Tide
+92,Saturday 7 September,3:26 PM,EDT,,,Moonrise
+93,Saturday 7 September,3:37 PM,EDT,1.47 m,4.81 feet,High Tide
+94,Saturday 7 September,7:09 PM,EDT,,,Sunset
+95,Saturday 7 September,11:38 PM,EDT,0.35 m,1.15 feet,Low Tide
+96,Sunday 8 September,12:51 AM,EDT,,,Moonset
+97,Sunday 8 September,4:05 AM,EDT,1.21 m,3.97 feet,High Tide
+98,Sunday 8 September,6:18 AM,EDT,,,Sunrise
+99,Sunday 8 September,9:18 AM,EDT,0.34 m,1.11 feet,Low Tide
+100,Sunday 8 September,4:17 PM,EDT,,,Moonrise
+101,Sunday 8 September,4:37 PM,EDT,1.44 m,4.72 feet,High Tide
+102,Sunday 8 September,7:07 PM,EDT,,,Sunset
+103,Monday 9 September,12:29 AM,EDT,0.33 m,1.08 feet,Low Tide
+104,Monday 9 September,1:43 AM,EDT,,,Moonset
+105,Monday 9 September,5:06 AM,EDT,1.23 m,4.03 feet,High Tide
+106,Monday 9 September,6:19 AM,EDT,,,Sunrise
+107,Monday 9 September,10:21 AM,EDT,0.33 m,1.09 feet,Low Tide
+108,Monday 9 September,5:02 PM,EDT,,,Moonrise
+109,Monday 9 September,5:35 PM,EDT,1.45 m,4.75 feet,High Tide
+110,Monday 9 September,7:05 PM,EDT,,,Sunset
+111,Tuesday 10 September,1:14 AM,EDT,0.31 m,1.03 feet,Low Tide
+112,Tuesday 10 September,2:39 AM,EDT,,,Moonset
+113,Tuesday 10 September,6:01 AM,EDT,1.29 m,4.22 feet,High Tide
+114,Tuesday 10 September,6:20 AM,EDT,,,Sunrise
+115,Tuesday 10 September,11:13 AM,EDT,0.30 m,0.98 feet,Low Tide
+116,Tuesday 10 September,5:41 PM,EDT,,,Moonrise
+117,Tuesday 10 September,6:25 PM,EDT,1.48 m,4.86 feet,High Tide
+118,Tuesday 10 September,7:04 PM,EDT,,,Sunset
+119,Wednesday 11 September,12:04 AM,EDT,0.30 m,0.98 feet,Low Tide
+120,Wednesday 11 September,12:53 AM,EDT,0.30 m,0.99 feet,High Tide
+121,Wednesday 11 September,1:46 AM,EDT,0.30 m,0.97 feet,Low Tide
+122,Wednesday 11 September,3:37 AM,EDT,,,Moonset
+123,Wednesday 11 September,6:21 AM,EDT,,,Sunrise
+124,Wednesday 11 September,6:49 AM,EDT,1.37 m,4.49 feet,High Tide
+125,Wednesday 11 September,11:59 AM,EDT,0.25 m,0.83 feet,Low Tide
+126,Wednesday 11 September,6:15 PM,EDT,,,Moonrise
+127,Wednesday 11 September,7:02 PM,EDT,,,Sunset
+128,Wednesday 11 September,7:08 PM,EDT,1.52 m,5.00 feet,High Tide
+129,Thursday 12 September,12:34 AM,EDT,0.23 m,0.76 feet,Low Tide
+130,Thursday 12 September,4:36 AM,EDT,,,Moonset
+131,Thursday 12 September,6:22 AM,EDT,,,Sunrise
+132,Thursday 12 September,7:30 AM,EDT,1.45 m,4.75 feet,High Tide
+133,Thursday 12 September,12:42 PM,EDT,0.20 m,0.67 feet,Low Tide
+134,Thursday 12 September,6:44 PM,EDT,,,Moonrise
+135,Thursday 12 September,7:00 PM,EDT,,,Sunset
+136,Thursday 12 September,7:47 PM,EDT,1.55 m,5.10 feet,High Tide
+137,Friday 13 September,1:11 AM,EDT,0.16 m,0.53 feet,Low Tide
+138,Friday 13 September,5:35 AM,EDT,,,Moonset
+139,Friday 13 September,6:23 AM,EDT,,,Sunrise
+140,Friday 13 September,8:08 AM,EDT,1.51 m,4.95 feet,High Tide
+141,Friday 13 September,1:25 PM,EDT,0.16 m,0.51 feet,Low Tide
+142,Friday 13 September,6:59 PM,EDT,,,Sunset
+143,Friday 13 September,7:11 PM,EDT,,,Moonrise
+144,Friday 13 September,8:25 PM,EDT,1.57 m,5.15 feet,High Tide
+145,Saturday 14 September,12:35 AM,EDT,,,Full Moon
+146,Saturday 14 September,1:49 AM,EDT,0.10 m,0.33 feet,Low Tide
+147,Saturday 14 September,6:24 AM,EDT,,,Sunrise
+148,Saturday 14 September,6:34 AM,EDT,,,Moonset
+149,Saturday 14 September,8:46 AM,EDT,1.54 m,5.06 feet,High Tide
+150,Saturday 14 September,2:07 PM,EDT,0.12 m,0.39 feet,Low Tide
+151,Saturday 14 September,6:57 PM,EDT,,,Sunset
+152,Saturday 14 September,7:36 PM,EDT,,,Moonrise
+153,Saturday 14 September,9:02 PM,EDT,1.55 m,5.10 feet,High Tide
+154,Sunday 15 September,2:28 AM,EDT,0.05 m,0.18 feet,Low Tide
+155,Sunday 15 September,6:25 AM,EDT,,,Sunrise
+156,Sunday 15 September,7:33 AM,EDT,,,Moonset
+157,Sunday 15 September,9:24 AM,EDT,1.55 m,5.08 feet,High Tide
+158,Sunday 15 September,2:48 PM,EDT,0.09 m,0.30 feet,Low Tide
+159,Sunday 15 September,6:55 PM,EDT,,,Sunset
+160,Sunday 15 September,8:00 PM,EDT,,,Moonrise
+161,Sunday 15 September,9:41 PM,EDT,1.51 m,4.96 feet,High Tide
+162,Monday 16 September,3:07 AM,EDT,0.02 m,0.08 feet,Low Tide
+163,Monday 16 September,6:26 AM,EDT,,,Sunrise
+164,Monday 16 September,8:32 AM,EDT,,,Moonset
+165,Monday 16 September,10:03 AM,EDT,1.53 m,5.01 feet,High Tide
+166,Monday 16 September,3:28 PM,EDT,0.08 m,0.25 feet,Low Tide
+167,Monday 16 September,6:53 PM,EDT,,,Sunset
+168,Monday 16 September,8:24 PM,EDT,,,Moonrise
+169,Monday 16 September,10:21 PM,EDT,1.45 m,4.75 feet,High Tide
+170,Tuesday 17 September,3:44 AM,EDT,0.02 m,0.05 feet,Low Tide
+171,Tuesday 17 September,6:27 AM,EDT,,,Sunrise
+172,Tuesday 17 September,9:31 AM,EDT,,,Moonset
+173,Tuesday 17 September,10:45 AM,EDT,1.49 m,4.88 feet,High Tide
+174,Tuesday 17 September,4:08 PM,EDT,0.08 m,0.26 feet,Low Tide
+175,Tuesday 17 September,6:52 PM,EDT,,,Sunset
+176,Tuesday 17 September,8:50 PM,EDT,,,Moonrise
+177,Tuesday 17 September,11:03 PM,EDT,1.37 m,4.49 feet,High Tide
+178,Wednesday 18 September,4:22 AM,EDT,0.02 m,0.08 feet,Low Tide
+179,Wednesday 18 September,6:28 AM,EDT,,,Sunrise
+180,Wednesday 18 September,10:32 AM,EDT,,,Moonset
+181,Wednesday 18 September,11:29 AM,EDT,1.45 m,4.75 feet,High Tide
+182,Wednesday 18 September,4:48 PM,EDT,0.10 m,0.32 feet,Low Tide
+183,Wednesday 18 September,6:50 PM,EDT,,,Sunset
+184,Wednesday 18 September,9:18 PM,EDT,,,Moonrise
+185,Wednesday 18 September,11:49 PM,EDT,1.29 m,4.24 feet,High Tide
+186,Thursday 19 September,5:01 AM,EDT,0.05 m,0.17 feet,Low Tide
+187,Thursday 19 September,6:29 AM,EDT,,,Sunrise
+188,Thursday 19 September,11:34 AM,EDT,,,Moonset
+189,Thursday 19 September,12:16 PM,EDT,1.41 m,4.63 feet,High Tide
+190,Thursday 19 September,5:31 PM,EDT,0.13 m,0.44 feet,Low Tide
+191,Thursday 19 September,6:48 PM,EDT,,,Sunset
+192,Thursday 19 September,9:51 PM,EDT,,,Moonrise
+193,Friday 20 September,12:38 AM,EDT,1.23 m,4.02 feet,High Tide
+194,Friday 20 September,5:44 AM,EDT,0.09 m,0.31 feet,Low Tide
+195,Friday 20 September,6:30 AM,EDT,,,Sunrise
+196,Friday 20 September,12:37 PM,EDT,,,Moonset
+197,Friday 20 September,1:05 PM,EDT,1.39 m,4.57 feet,High Tide
+198,Friday 20 September,6:18 PM,EDT,0.18 m,0.59 feet,Low Tide
+199,Friday 20 September,6:46 PM,EDT,,,Sunset
+200,Friday 20 September,10:29 PM,EDT,,,Moonrise
+201,Saturday 21 September,1:31 AM,EDT,1.19 m,3.89 feet,High Tide
+202,Saturday 21 September,6:31 AM,EDT,,,Sunrise
+203,Saturday 21 September,6:32 AM,EDT,0.14 m,0.47 feet,Low Tide
+204,Saturday 21 September,1:39 PM,EDT,,,Moonset
+205,Saturday 21 September,1:59 PM,EDT,1.39 m,4.57 feet,High Tide
+206,Saturday 21 September,6:45 PM,EDT,,,Sunset
+207,Saturday 21 September,7:15 PM,EDT,0.22 m,0.72 feet,Low Tide
+208,Saturday 21 September,10:43 PM,EDT,,,Last Quarter
+209,Saturday 21 September,11:14 PM,EDT,,,Moonrise
+210,Sunday 22 September,2:27 AM,EDT,1.18 m,3.86 feet,High Tide
+211,Sunday 22 September,6:32 AM,EDT,,,Sunrise
+212,Sunday 22 September,7:31 AM,EDT,0.18 m,0.60 feet,Low Tide
+213,Sunday 22 September,2:40 PM,EDT,,,Moonset
+214,Sunday 22 September,2:56 PM,EDT,1.42 m,4.65 feet,High Tide
+215,Sunday 22 September,6:43 PM,EDT,,,Sunset
+216,Sunday 22 September,8:20 PM,EDT,0.23 m,0.75 feet,Low Tide
+217,Monday 23 September,12:08 AM,EDT,,,Moonrise
+218,Monday 23 September,3:28 AM,EDT,1.21 m,3.97 feet,High Tide
+219,Monday 23 September,6:33 AM,EDT,,,Sunrise
+220,Monday 23 September,8:38 AM,EDT,0.19 m,0.61 feet,Low Tide
+221,Monday 23 September,3:36 PM,EDT,,,Moonset
+222,Monday 23 September,3:57 PM,EDT,1.47 m,4.83 feet,High Tide
+223,Monday 23 September,6:41 PM,EDT,,,Sunset
+224,Monday 23 September,9:29 PM,EDT,0.18 m,0.59 feet,Low Tide
+225,Tuesday 24 September,1:11 AM,EDT,,,Moonrise
+226,Tuesday 24 September,4:31 AM,EDT,1.30 m,4.26 feet,High Tide
+227,Tuesday 24 September,6:34 AM,EDT,,,Sunrise
+228,Tuesday 24 September,9:47 AM,EDT,0.13 m,0.43 feet,Low Tide
+229,Tuesday 24 September,4:27 PM,EDT,,,Moonset
+230,Tuesday 24 September,5:00 PM,EDT,1.56 m,5.13 feet,High Tide
+231,Tuesday 24 September,6:39 PM,EDT,,,Sunset
+232,Tuesday 24 September,10:33 PM,EDT,0.09 m,0.29 feet,Low Tide
+233,Wednesday 25 September,2:21 AM,EDT,,,Moonrise
+234,Wednesday 25 September,5:33 AM,EDT,1.44 m,4.72 feet,High Tide
+235,Wednesday 25 September,6:35 AM,EDT,,,Sunrise
+236,Wednesday 25 September,10:52 AM,EDT,0.03 m,0.11 feet,Low Tide
+237,Wednesday 25 September,5:11 PM,EDT,,,Moonset
+238,Wednesday 25 September,6:00 PM,EDT,1.68 m,5.50 feet,High Tide
+239,Wednesday 25 September,6:38 PM,EDT,,,Sunset
+240,Wednesday 25 September,11:32 PM,EDT,-0.02 m,-0.07 feet,Low Tide
+241,Thursday 26 September,3:36 AM,EDT,,,Moonrise
+242,Thursday 26 September,6:30 AM,EDT,1.61 m,5.27 feet,High Tide
+243,Thursday 26 September,6:36 AM,EDT,,,Sunrise
+244,Thursday 26 September,11:52 AM,EDT,-0.07 m,-0.23 feet,Low Tide
+245,Thursday 26 September,5:50 PM,EDT,,,Moonset
+246,Thursday 26 September,6:36 PM,EDT,,,Sunset
+247,Thursday 26 September,6:54 PM,EDT,1.79 m,5.87 feet,High Tide
