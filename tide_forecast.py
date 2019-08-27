@@ -8,7 +8,7 @@ class TideForecastScraper:
   def __init__(self, name):
     self.name = name
     self.base_url = 'https://www.tide-forecast.com'
-    self.max_tries = 5 # must be more than 0
+    self.max_tries = 3 # must be more than 0
 
   def getHTML(self):
     formatted_name = re.sub('[^a-zA-Z0-9 \n\.]', '', self.name).replace(' ','-')
@@ -42,6 +42,7 @@ class TideForecastPage:
   def __init__(self, html,name):
     self.name = name
     self.html = html
+    self.tide_df = self.get_tide_table()
 
   def get_tide_table(self):
 
@@ -70,10 +71,11 @@ class TideForecastPage:
     self.df = pd.DataFrame.from_records(all_records)
     return self.df
 
-  def filter_tide_table_to_daylight_lowtide(self):
+  def get_daylight_lowtide_table(self):
+
     result_df = None
-    for day in set(self.df['date'].values):
-      df = self.df[self.df['date']==day]
+    for day in set(self.tide_df['date'].values):
+      df = self.tide_df[self.tide_df['date']==day]
       sunrise_idx = -1
       sunset_idx = -1
       try:
