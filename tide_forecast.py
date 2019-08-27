@@ -78,14 +78,21 @@ class TideForecastPage:
       df = self.tide_df[self.tide_df['date']==day]
       sunrise_idx = -1
       sunset_idx = -1
+      sunrise_success = False
       try:
         sunrise_idx = (df['event']=='Sunrise').to_list().index(True)
+        sunrise_success = True
       except:
         sunrise_idx = 0
+
       try:
         sunset_idx = (df['event']=='Sunset').to_list().index(True)
       except:
-        sunset_idx = df.shape[0]
+        #If we know we're at least past sunrise pull all records past sunrise else pull none
+        if sunrise_success:
+          sunset_idx = df.shape[0]
+        else:
+          sunset_idx = 0
 
       if sunrise_idx + sunset_idx > 0:
         df.reset_index(inplace=True)
