@@ -17,4 +17,4 @@
 
         $ python main.py
 
-  This will create csv's for each site of the raw tide table data, print daylight lowtide events to the screen, and write daylight low tide events to a text file called 'low_tides.txt' in the working directory.
+  This will create csv's in a results folder for each site of the raw tide table data, print daylight lowtide events to the screen, and write daylight low tide events to a text file in the results folder called 'low_tides.txt'.
