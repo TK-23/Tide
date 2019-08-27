@@ -1,4 +1,4 @@
-,date,time,timezone,moonrise,level_metric,level
+,date,time,timezone,event,level_metric,level
 0,Tuesday 27 August,3:10 AM,PDT,Moonrise,,
 1,Tuesday 27 August,6:35 AM,PDT,Sunrise,,
 2,Tuesday 27 August,9:52 AM,PDT,High Tide,1.37 m,4.48 feet

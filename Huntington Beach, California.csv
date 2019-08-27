@@ -1,4 +1,4 @@
-,date,time,timezone,moonrise,level_metric,level
+,date,time,timezone,event,level_metric,level
 0,Monday 26 August,7:25 PM,PDT,Sunset,,
 1,Tuesday 27 August,1:56 AM,PDT,Low Tide,0.20 meters,0.66 ft
 2,Tuesday 27 August,3:02 AM,PDT,Moonrise,,

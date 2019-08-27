@@ -35,11 +35,12 @@ class TideForecastScraper:
     if tries==self.max_tries:
       return False
 
-    return TideForecastPage(response.content)
+    return TideForecastPage(response.content, self.name)
 
 
 class TideForecastPage:
-  def __init__(self, html):
+  def __init__(self, html,name):
+    self.name = name
     self.html = html
 
   def get_tide_table(self):
@@ -49,7 +50,7 @@ class TideForecastPage:
     table = soup.findAll("table", {"class": "tide-table"})[0]
 
     all_records =[]
-    columns = ['time','timezone','level_metric','level','moonrise']
+    columns = ['time','timezone','level_metric','level','event']
     for r, row in enumerate(table.find_all('tr')):
         date_holder = row.find_all('th')
 
@@ -68,4 +69,31 @@ class TideForecastPage:
 
     self.df = pd.DataFrame.from_records(all_records)
     return self.df
+
+  def filter_tide_table_to_daylight_lowtide(self):
+    result_df = None
+    for day in set(self.df['date'].values):
+      df = self.df[self.df['date']==day]
+      sunrise_idx = -1
+      sunset_idx = -1
+      try:
+        sunrise_idx = (df['event']=='Sunrise').to_list().index(True)
+      except:
+        sunrise_idx = 0
+      try:
+        sunset_idx = (df['event']=='Sunset').to_list().index(True)
+      except:
+        sunset_idx = df.shape[0]
+
+      if sunrise_idx + sunset_idx > 0:
+        df.reset_index(inplace=True)
+        df = df[(df.index > sunrise_idx) & (df.index < sunset_idx)]
+        if result_df is None:
+          result_df = df[df['event']=='Low Tide']
+        else:
+          result_df = pd.concat([df[df['event']=='Low Tide'],result_df])
+    result_df = result_df.sort_values('index')
+    del result_df['index']
+    return result_df
+
 
