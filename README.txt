@@ -3,10 +3,10 @@ Prequisites
   1. Download conda if you don't have it already (https://www.anaconda.com/distribution/)
 
   2. Install and Activate the environment
-```
+`
           conda env update -f whatever.yml;
           conda activate tide
-```
+`
       Note: You can run outside this env so long as you have Python 3, Pandas 0.25.0 and beautifulsoup4 4.8.0
 
 The Script
